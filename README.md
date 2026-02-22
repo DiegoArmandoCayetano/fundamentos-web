@@ -1,8 +1,7 @@
-"# Fundamentos de la Web" 
-"" 
-"repositorio para el laboratorio de Git - Unidad 1" 
-"" 
-"## Autor" 
-"-Nombre: [Diego Armando Cayetano Bautista Cano]" 
-"-C¢digo: [02230131015]" 
-"- Fecha $(date +%Y-%m-%d)" 
+# Fundamentos de la Web
+
+Repositorio para laboratorio Git
+
+## Autor
+- Nombre: Tu nombre
+- Fecha: 2026-02-22
